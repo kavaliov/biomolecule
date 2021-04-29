@@ -4,10 +4,10 @@ document.addEventListener("DOMContentLoaded", () => {
   let pause;
 
   const seqCount = {
-    "INT3D-27": 300,
+    "INT3D-27": 218,
     "INT3D-28": 516,
     "INT3D-29": 179,
-    "INT3D-30": 401,
+    "INT3D-30": 399,
   }
 
   const showVideo = (id) => {
